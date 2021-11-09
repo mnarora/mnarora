@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-#### I'm Manish, a third year undergrad in Computer Science at College of Engineering, Pune(COEP)
+#### I'm Manish, a final year undergrad pursuing B.Tech in Computer Engineering at College of Engineering, Pune(COEP)
 
 
 Here are some ideas to get you started:

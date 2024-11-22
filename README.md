@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-#### I'm Manish, working as a Software Developer at Goldman Sach
+#### I'm Manish, working as a Software Developer at Goldman Sachs
 
 
 Here are some ideas to get you started:
